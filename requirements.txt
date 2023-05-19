@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+requests
+pytube
+datetime
+qrcode
+pysdbots
+catboys
+openai
+schedule
